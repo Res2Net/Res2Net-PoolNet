@@ -39,7 +39,7 @@ normalize = transforms.Normalize(mean=[0.485, 0.456, 0.406],
 ### 1. Clone the repository
 
 ```shell
-https://github.com/gasvn/Res2Net_PoolNet.git
+https://github.com/gasvn/Res2Net-PoolNet.git
 cd Res2Net_PoolNet/
 ```
 
