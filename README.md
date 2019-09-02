@@ -97,7 +97,7 @@ All results saliency maps will be stored under `results/run-*-sal-*` folders in 
 
 ### 6. Pre-trained models
 
-The pretrained models for SOD using Res2Net will be soon available.
+The pretrained models for SOD using Res2Net is now available on [ONEDRIVE](https://1drv.ms/u/s!AkxDDnOtroRPe43-1JjD304ecvU?e=Y7qCHN).
 
 Note：
 
